@@ -1,17 +1,16 @@
 ---
 title: Demo
-emoji: 🌖
-colorFrom: purple
-colorTo: purple
+emoji: 😻
+colorFrom: blue
+colorTo: pink
 sdk: gradio
-sdk_version: 3.0.6
+sdk_version: 5.7.1
 app_file: app.py
 pinned: false
-license: cc
+license: apache-2.0
 ---
 
-
-[![Sync to Hugging Face hub](https://github.com/nogibjj/hugging-face/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/hugging-face/actions/workflows/main.yml)
+[![Sync to Hugging Face hub](https://github.com/vinycoolguy2015/hugging-face/actions/workflows/main.yml/badge.svg)](https://github.com/vinycoolguy2015/hugging-face/actions/workflows/main.yml)
 
 
 [Try Demo Text Summarization Here](https://huggingface.co/spaces/noahgift/demo)
